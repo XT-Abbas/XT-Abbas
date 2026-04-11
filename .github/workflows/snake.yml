@@ -17,7 +17,7 @@ jobs:
     
     steps:
       - name: Generate Snake Game files
-        uses: Platane/snk/yaml-build@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: XT-Abbas
           outputs: |
@@ -33,4 +33,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
