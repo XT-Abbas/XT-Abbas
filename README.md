@@ -1,11 +1,5 @@
-<h1 align="center">Hi, I'm Qadeer Ahmad</h1>
+<h1 align="center">Hi, I'm RAO ABBAS</h1>
 
-
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XT-Abbas&theme=radical">
-</p>
 
 ---
 
