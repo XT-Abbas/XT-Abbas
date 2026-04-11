@@ -1,22 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+To+My+VIP+Workspace;Hi,+I'm+RAO+ABBAS;Building+Next-Level+Projects;&width=600&height=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=38&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Welcome+To+My+Workspace;I+Am+RAO+ABBAS;Code+%7C+Create+%7C+Dominate;Building+Smart+%26+Creative+Systems;Gaming+Mindset+%2B+Developer+Logic" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jIGsO4/giphy.gif" alt="3d glowing line" width="100%" height="20px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0EA5E9,100:020617&height=150&section=header"/>
 </p>
 
 <div align="center">
-  <a href="https://github.com/XT-Abbas">
-    <img src="https://img.shields.io/badge/Profile_Status-VIP_Workspace-black?style=for-the-badge&logo=github&logoColor=00ff00" alt="VIP">
-  </a>
-  <a href="https://github.com/XT-Abbas">
-    <img src="https://img.shields.io/badge/Developer-Pro-00ff00?style=for-the-badge&logo=android&logoColor=black" alt="Pro Dev">
-  </a>
+  <img src="https://img.shields.io/badge/MODE-DEV_%2B_GAMING-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-CLEAN_%26_FAST-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-020617?style=for-the-badge&logo=github&logoColor=00f7ff"/>
 </div>
 
-<br>
-
+---
 ### 🌟 [ ABOUT_ME : RAO_ABBAS ]
 
 > "Turning imagination into reality through clean code and solid logic."
